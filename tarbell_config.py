@@ -11,7 +11,7 @@ NAME = "untangled-research"
 TITLE = "Untangled Research"
 
 # Google spreadsheet key
-#SPREADSHEET_KEY = "None"
+SPREADSHEET_KEY = "0ArcRX35HpjojdENTQ3BWWW5sRjVqTEhCd29ibWdlaEE"
 
 # Create JSON data at ./data.json, disabled by default
 # CREATE_JSON = True
